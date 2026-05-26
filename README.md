@@ -302,7 +302,7 @@ Before building the dashboard, the raw dataset was processed and cleaned in **Po
 ## 👤 Author
 
 **Analysis by WISDOM**
-Connect on [LinkedIn](#) | Follow on [X/Twitter](#)
+Connect on [LinkedIn](https://www.linkedin.com/in/chidera-okpala-22417730a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4INxZYcsTyKorOpUHiO2Uw%3D%3D) | Follow on [X/Twitter](https://x.com/PrimeW1sdom)
 
 ---
 
