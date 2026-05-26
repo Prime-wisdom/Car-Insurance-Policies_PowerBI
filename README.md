@@ -11,32 +11,32 @@ This project presents a comprehensive **Car Insurance Claims Analysis** built in
 ## 🖼️ Dashboard Preview
 
 ### 📌 Main Dashboard — Overview
-![Main Dashboard Overview](images/dashboard_overview.png)
+![Main Dashboard Overview](dashboard_overview.png)
 
 ---
 
 ### 🚘 Car Info Page
-![Car Info Page](images/car_info.png)
+![Car Info Page](car_info.png)
 
 ---
 
 ### 📋 Report — Analytical Questions
-![Report Page](images/report_questions.png)
+![Report Page](report_questions.png)
 
 ---
 
 ### 💡 Insights Page 1 — Gender, Household Dynamics & Top Brands
-![Insights Page 1](images/insights_1.png)
+![Insights Page 1](insights_1.png)
 
 ---
 
 ### 💡 Insights Page 2 — Education Level & Vehicle Color
-![Insights Page 2](images/insights_2.png)
+![Insights Page 2](insights_2.png)
 
 ---
 
 ### 💡 Insights Page 3 — Geographic Severity & Income Bracket
-![Insights Page 3](images/insights_3.png)
+![Insights Page 3](insights_3.png)
 
 ---
 
